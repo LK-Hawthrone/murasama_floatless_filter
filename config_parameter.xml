@@ -1,0 +1,16 @@
+<murasama_config>
+    <filter>
+        <b0>31</b0>
+        <b1>62</b1>
+        <b2>31</b2>
+        <a1>-62625</a1>
+        <a2>30000</a2>
+        <shift>15</shift>
+    </filter>
+
+    <environment>
+        <adc_multiplier>1500</adc_multiplier>
+        <noise_gain>2.0</noise_gain>
+        <hum_60hz_gain>1.5</hum_60hz_gain>
+    </environment>
+</murasama_config>
