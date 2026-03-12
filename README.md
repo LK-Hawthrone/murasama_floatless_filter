@@ -15,19 +15,7 @@ A modular Python-based signal processing environment designed for high-fidelity 
   - `murasama_view.py`: High-performance Matplotlib animation loop.
 - **Config:** External `config_parameter.xml` for real-time gain and coefficient tuning.
 
-## 🛰️ Visual Iterations
-
-### 1. Version 1:
-
-<video src="assets/version_1.mp4" width="70%" controls muted></video> 
-
-### 2. Version 2:
-
-<video src="assets/version_2.mp4" width="70%" controls muted></video>
-
-### 3. Version 3:
-
-<video src="assets/version_3.mp4" width="70%" controls muted></video>
+## 🛰️ I lost the original documentation so... this is the only thing I have
 
 ### 4. Final Version: 
 
